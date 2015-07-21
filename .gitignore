@@ -1,2 +1,5 @@
 .vagrant
+.bundle
+Gemfile.lock
+junit
 log
